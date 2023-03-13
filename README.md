@@ -1,5 +1,7 @@
 ### Hi there 👋
-
+I am Marino,
+I am currently in the first year of a  computer system engineering course at London metropolitan university.<br>
+I graduated from an Italian high school in a scientific subject.
 <!--
 **marino-png/marino-png** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
