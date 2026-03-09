@@ -1,27 +1,61 @@
 # Welcome to marino profile 👋
 
+I am an MSc Robotics student at King's College London with a background in Computer System Engineering. I specialize in bridging the gap between hardware and software, with a particular focus on intelligent automation, sensor fusion, and machine learning applications.
+
 ## About Me
 
-Hello! I'm marino, an undergraduate student pursuing a degree in computer systems engineering and robotics. Originally from Italy,
-I am currently based in London, exploring the exciting world of technology and software development.
+-🎓 Education: Pursuing an MSc in Robotics at KCL; BEng (First Class) in Computer System Engineering and Robotics.
 
-## Project Overview
+-🌍 Location: Based in London, UK.
 
-This repository houses some of my challenging projects as part of my computer systems engineering and robotics studies. 
-Here's a brief overview of what you'll find:
+-🛠️ Core Tech: ROS 2, Python, C/C++, OpenCV, VHDL, and PCB Design.
 
-### Calculator 🧮
-- Description: A caluculator that can be open from any web browser is not a scentific calculator and there is not any eval function into it.
-- Technologies: html, css and javascript.
+-💡 Interests: Collaborative robotics, autonomous grasping, and embedded system design.
 
-### Rock Paper Scissors Game ✂️
-- Description: An implementation of the classic rock-paper-scissors game.
-- Technologies: html, css and javascript.
+## Featured Robotics & AI Projects
 
-### Chrome Extension ⏳
-- Description: a chrome extension that can help you fousing with a timer that help you implementing the pomodoro technique.
-- Technologies: html, css and javascript.
+⌚ Wearable Guide System (Bachelor's Thesis)
 
-- Feel free to explore the code, open issues, and suggest improvements. I'm always open to collaboration and learning from the community!
+Developed a smartwatch-based interface using IMU and gyroscope data to wirelessly control vehicle movement.
 
-Happy coding! 🚀
+    Key Features: Real-time haptic feedback for obstacle detection (<5cm) and intuitive remote driving for universal accessibility.
+
+    Tech: Embedded systems, Sensor integration, Hardware-software co-design.
+
+🤖 Robot Arm with Language-Guided Handover
+
+Built an assistant arm using the ACT model and Hugging Face framework.
+
+    Outcome: Achieved a 90% success rate in recognizing verbal requests and handing over specific tools to users.
+
+    Tech: Robotic manipulators, Object recognition, NLP.
+
+🦾 Autonomous Grasping Simulation (SO-100)
+
+Developed an autonomous grasping simulation for a screwdriver using the Lerobot framework.
+
+    Performance: Achieved 80% accuracy in simulated environments.
+
+    Simulation Tools: Gazebo, MuJoCo.
+
+👁️ Computer Vision & 3D Reconstruction
+
+    Implemented 3D reconstruction using SIFT for spatial mapping.
+
+    Conducted advanced grasping simulations and object tracking within ROS 2 environments.
+
+### Other Technical Work
+- Database Systems: Experienced in normalization and setup; developed a virtual land acquisition platform with user registration and spatial data management.
+
+- Web Legacy Tools: My early journey started with building Pomodoro Chrome extensions and interactive JS applications.
+
+### 📈 Skills & Tools
+
+  - Languages: Python, C/C++, Bash, VHDL.
+
+  - Frameworks/Tools: ROS 2, OpenCV, Git, PCB Design (Altium/KiCad).
+
+  - Soft Skills: Public speaking (Masterclasses) and team collaboration.
+
+### 📫 Connect with me
+- LinkedIn: marino-calcagni
