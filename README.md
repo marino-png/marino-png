@@ -55,7 +55,7 @@ Developed an autonomous grasping simulation for a screwdriver using the Lerobot 
 
   - Frameworks/Tools: ROS 2, OpenCV, Git, PCB Design (Altium/KiCad).
 
-  - Soft Skills: Public speaking (Masterclasses) and team collaboration.
+  - Soft Skills: Public speaking and team collaboration.
 
 ### 📫 Connect with me
 - LinkedIn: marino-calcagni
