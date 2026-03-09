@@ -18,31 +18,31 @@ I am an MSc Robotics student at King's College London with a background in Compu
 
 Developed a smartwatch-based interface using IMU and gyroscope data to wirelessly control vehicle movement.
 
-    Key Features: Real-time haptic feedback for obstacle detection (<5cm) and intuitive remote driving for universal accessibility.
+- Key Features: Real-time haptic feedback for obstacle detection (<5cm) and intuitive remote driving for universal accessibility.
 
-    Tech: Embedded systems, Sensor integration, Hardware-software co-design.
+- Tech: Embedded systems, Sensor integration, Hardware-software co-design.
 
 🤖 Robot Arm with Language-Guided Handover
 
 Built an assistant arm using the ACT model and Hugging Face framework.
 
-    Outcome: Achieved a 90% success rate in recognizing verbal requests and handing over specific tools to users.
+- Outcome: Achieved a 90% success rate in recognizing verbal requests and handing over specific tools to users.
 
-    Tech: Robotic manipulators, Object recognition, NLP.
+- Tech: Robotic manipulators, Object recognition, NLP.
 
 🦾 Autonomous Grasping Simulation (SO-100)
 
 Developed an autonomous grasping simulation for a screwdriver using the Lerobot framework.
 
-    Performance: Achieved 80% accuracy in simulated environments.
+- Performance: Achieved 80% accuracy in simulated environments.
 
-    Simulation Tools: Gazebo, MuJoCo.
+- Simulation Tools: Gazebo, MuJoCo.
 
 👁️ Computer Vision & 3D Reconstruction
 
-    Implemented 3D reconstruction using SIFT for spatial mapping.
+- Implemented 3D reconstruction using SIFT for spatial mapping.
 
-    Conducted advanced grasping simulations and object tracking within ROS 2 environments.
+- Conducted advanced grasping simulations and object tracking within ROS 2 environments.
 
 ### Other Technical Work
 - Database Systems: Experienced in normalization and setup; developed a virtual land acquisition platform with user registration and spatial data management.
